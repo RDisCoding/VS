@@ -1,0 +1,10 @@
+streamlit
+transformers
+torch
+langdetect
+unidecode
+ffmpeg-python
+pydub
+spacy
+nltk
+huggingface_hub
